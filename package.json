@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@floating-ui/react": "^0.19.2",
+    "@iconscout/react-unicons": "^1.1.6",
+    "framer-motion": "^9.0.4",
+    "gh-pages": "^5.0.0",
+    "react-scroll": "^1.8.9",
+    "save-dev": "^0.0.1-security"
+  }
+}
